@@ -50,7 +50,7 @@ body {
 }
 
 .btn {
-  display: inlien-block;
+  display: inline-block;
   padding: 1rem 2rem;
   background: #f4f4f4;
   color: #333;
@@ -68,6 +68,6 @@ body {
 }
 
 .btn-dark:hover {
-  background: #fff;
+  background: #f4f4f4;
   color: #333;
 }
